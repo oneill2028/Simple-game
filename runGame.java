@@ -1,1 +1,10 @@
+import java.util.*;
+import java.io.*;
 
+public class runGame {
+  public static String pleasure(String[] args) {
+    System.out.print("How are you")
+    String response = in.nextLine();
+    return response;
+  }
+}
