@@ -37,7 +37,7 @@ public class Main {
   }
 
   public static void main(String[] args) {
-    String in = pleasure();
+    String in = runGame.pleasure();
     String[] data = {"Suzy is weird", "fart", in};
     encode(data, 2, "results.txt");
   }
