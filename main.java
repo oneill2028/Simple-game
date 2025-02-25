@@ -37,7 +37,7 @@ public class Main {
   }
 
   public static void main(String[] args) {
-    String[] data = {"Hello I Am Kevin", "char2"};
+    String[] data = {"Suzy is weird", "fart"};
     encode(data, 2, "results.txt");
   }
 }
